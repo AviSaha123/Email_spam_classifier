@@ -1,3 +1,5 @@
-streamlit
-sklearn 
 nltk 
+sklearn
+streamlit 
+string
+pickle
